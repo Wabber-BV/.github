@@ -15,15 +15,17 @@ speciaal gemaakt naar de gewenste specificaties, perfect op maat voor en mét uw
 ### [Industrial](https://www.wabber.nl/expertises/industrial)
 
 ---
+Van apps &amp; mobile device management, tot industriële scanners en sensors, wij doen het, ook voor de healthcare!
 
 
 ### [Logistics](https://www.wabber.nl/expertises/logistics)
 
 ---
-
+Transport management systemen (TMS), warehouse management systemen (WMS), proof of delivery (POD), en nog veel meer!
 
 ### [Service](https://www.wabber.nl/expertises/service)
 
 ---
+Applicaties voor dienstverlenende bedrijven, denk aan dossiervorming, contactregistratie en relatiemanagement oplossingen.
 
 <a href="mailto:github@wabber.io">github@wabber.io</a>
